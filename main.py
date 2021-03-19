@@ -47,7 +47,7 @@ with open('data.csv', 'w') as f:
     header = ('datetime', 'lat', 'lon')
     writer.writerow(header)
 
-    # Runs the program for 226 times
+# Runs the program 226 times
 while NumberOfRuns <= 226:
     DawnTLE.compute()
     latitude = DawnTLE.sublat/degree
