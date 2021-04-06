@@ -1,17 +1,17 @@
 # Astro Pi 2020/21 Team Oasis
- Astro Pi submission for 2020/2021 pending results
 
-# The Idea
+
+## The Idea
 The Idea for the project is that we will use the Pi NoIR camera on the International Space Station to measure crop health and compare that with the Area's social climate (E.g Drought, War Etc).
 
-# What we used
+## What we used
 - Raspberry Pi 3
 - Pi Sense Hat
 - Pi Noir V2 camera
 - XRDP (Not Necessary but very useful) https://pimylifeup.com/raspberry-pi-remote-desktop/
 - Cfasties Colormap for NDVI https://publiclab.org/notes/cfastie/08-26-2014/new-ndvi-colormap
 
-# Some Assumptions We Made
+## Some Assumptions We Made
 - We are assuming that we are 410km from the ground
 - We are assuming that the camera is moving horizontally at 7.66km/s
 - We are assuming that the camera on the ISS is using the V1 pi NoIR camera with the OmniVision OV5647 sensor
@@ -26,3 +26,7 @@ Each line in the CSV corresponds to a photo the first line of data (line 2 becau
 We haven't gotten confirmation of flight status yet but I will update the page when We
 Thank you and Stay safe! 
 Best, John and Team
+
+
+### Update - We got it!
+We got flight status on the 6th of April 2021! We are delighted!
