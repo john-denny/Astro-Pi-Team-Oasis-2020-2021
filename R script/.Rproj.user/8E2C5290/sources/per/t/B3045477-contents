@@ -1,0 +1,10 @@
+# Read in image data
+#
+#
+library(imager)
+# inputfile <- system.file('C:/Users/pdenny/Documents/R Projects/ISS/data/IMG-20210518-WA0000.jpg',package='imager')
+
+inputfile <- file.choose()
+
+im <- load.image(inputfile)
+plot(im)

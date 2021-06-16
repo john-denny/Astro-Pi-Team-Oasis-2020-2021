@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1621013764922.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "42644135",
+    "id" : "F1B06879",
+    "lastKnownWriteTime" : 1621010623,
+    "last_content_update" : 1621010623,
+    "path" : "~/R Projects/ISS/R/fetch_data.R",
+    "project_path" : "R/fetch_data.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
