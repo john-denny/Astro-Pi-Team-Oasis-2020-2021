@@ -27,6 +27,15 @@ We haven't gotten confirmation of flight status yet but I will update the page w
 Thank you and Stay safe! 
 Best, John and Team
 
-
 ### Update - We got it!
 We got flight status on the 6th of April 2021! We are delighted!
+
+# Analysis
+
+### R Script
+We used this script to analyze the locations of the photos. Open the .rproj in R studio for the easiest use. Note: we used this after we got our data back.
+
+
+### Applying colormaps 
+- We used Fiji (ImageJ) to analyze the photos and apply LUTs (Lookup Tables)
+- We used CFasties colormap (link above)
