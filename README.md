@@ -36,6 +36,13 @@ We got flight status on the 6th of April 2021! We are delighted!
 We used this script to analyze the locations of the photos. Open the .rproj in R studio for the easiest use. Note: we used this after we got our data back.
 
 
+
 ### Applying colormaps 
 - We used Fiji (ImageJ) to analyze the photos and apply LUTs (Lookup Tables)
 - We used CFasties colormap (link above)
+
+
+# The Paper 
+- We wrote our paper about the effects of urbanisation on Vegetation health in Japan (As that is were we had the most photos) 
+- The European Space Agency has rules about font, number of pages, wordcount etc. You can find the rules we had to obey in paper/rules.pdf
+- You can find the paper itself in paper/Team Oasis Github.docx
